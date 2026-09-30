@@ -12,7 +12,7 @@ This repository contains a from-scratch implementation of Principal Component An
 
 ```
 .
-├── PCA_Formative_Rwanda_Rainfall.ipynb  
+├── PCA_Formative_2_Peer_Pair_16.ipynb  
 ├── hdx_hapi_rainfall_rwa.csv             
 ├── task_sheet.pdf                        
 └── README.md                             
