@@ -1,5 +1,4 @@
 # Formative Assignment: Principal Component Analysis (PCA)
-**Course:** Advanced Linear Algebra | **Submission Type:** Group Work
 
 ---
 
@@ -13,10 +12,10 @@ This repository contains a from-scratch implementation of Principal Component An
 
 ```
 .
-├── PCA_Formative_Rwanda_Rainfall.ipynb   # Main notebook (completed)
-├── hdx_hapi_rainfall_rwa.csv             # Dataset
-├── task_sheet.pdf                        # Signed group contribution sheet
-└── README.md                             # This file
+├── PCA_Formative_Rwanda_Rainfall.ipynb  
+├── hdx_hapi_rainfall_rwa.csv             
+├── task_sheet.pdf                        
+└── README.md                             
 ```
 
 ---
@@ -25,15 +24,6 @@ This repository contains a from-scratch implementation of Principal Component An
 
 **Source:** [HDX HAPI — Rainfall, Rwanda](https://data.humdata.org/)  
 **File:** `hdx_hapi_rainfall_rwa.csv`
-
-| Property | Detail |
-|---|---|
-| Rows | 2,385 |
-| Columns | 20 |
-| Time range | January 2022 – May 2026 |
-| Admin level | National (level 1), 5 sub-regions |
-| Aggregation periods | Dekad (10-day), 1-month, 3-month |
-| Data versions | Final, Preliminary, Forecast |
 
 **Why this dataset?** Rwanda's economy is heavily agriculture-dependent, and rainfall patterns directly affect food security, crop yield, and water resource management. This data captures both *economic activity* signals (seasonal rainfall driving agricultural cycles) and *population pressure* dynamics (water availability across administrative regions).
 
